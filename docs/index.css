@@ -90,6 +90,10 @@
     height: 800px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .image-icon1 {
+   }
+}
  .john-doe {
     position: absolute;
     top: 106px;
@@ -100,6 +104,11 @@
     display: inline-block;
     width: 676px;
  }
+ @media (max-width: 768px) {
+   .john-doe {
+      left: -180px;
+   }
+}
  .software-engineer-uiux {
     position: absolute;
     top: 427px;
@@ -113,6 +122,11 @@
     display: inline-block;
     width: 684px;
  }
+ @media (max-width: 768px) {
+   .software-engineer-uiux {
+      left: -170px
+   }
+}
  .frame-icon {
     position: absolute;
     top: 612px;
@@ -129,6 +143,11 @@
     left: 8.06%;
     height: 720px;
  }
+ @media (min-width: 768px) {
+   .frame7 {
+      font-size: 80%;
+   }
+}
  .rectangle1 {
     position: absolute;
     width: 100%;
@@ -182,6 +201,12 @@
     line-height: 31.2px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .development { top: -23px;
+      left: -28px;
+      font-size: 60%;
+   }
+}
  .rectangle5 {
     position: absolute;
     width: 100%;
@@ -198,6 +223,18 @@
     height: 147px;
     object-fit: cover;
  }
+ .iconx {
+   position: absolute;
+   top: -49px;
+   left: -23px;
+   width: 116px;
+   height: 147px;
+   object-fit: cover;
+}
+@media (min-width: 768px) {
+   .iconx {
+   }
+}
  .frame12 {
     position: absolute;
     width: 21.57%;
@@ -215,6 +252,13 @@
     line-height: 31.2px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .software {
+      top: -47px;
+      left: -25px;
+      font-size: 70%;
+   }
+}
  .frame11 {
     position: absolute;
     width: 63.33%;
@@ -233,6 +277,13 @@
     font-family: var(--font-roboto-mono);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .experienced-in-crafting {
+      font-size: 30%;
+      top: 100px;
+      left: 10px;
+   }
+}
  .frame10 {
     position: absolute;
     width: 33.27%;
@@ -286,6 +337,13 @@
     line-height: 31.2px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .shopify {
+      top: -55px;
+      left: -25px;
+      font-size: 70%;
+   }
+}
  .frame15 {
     position: absolute;
     width: 23.71%;
@@ -312,6 +370,13 @@
     font-family: var(--font-roboto-mono);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .skilled-inio-turning {
+      font-size: 25%;
+      top: 100px;
+      left: 10px;
+   }
+}
  .icon1 {
     position: absolute;
     top: 13px;
@@ -320,6 +385,10 @@
     height: 127px;
     object-fit: cover;
  }
+ @media (min-width: 768px) {
+   .icon1 {
+   }
+}
  .frame13 {
     position: absolute;
     width: 31.36%;
@@ -399,6 +468,13 @@
     line-height: 31.2px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .uiux {
+      top: -47px;
+      left: -25px;
+      font-size: 70%;  
+   }
+}
  .design {
     position: absolute;
     width: 76.73%;
@@ -408,6 +484,13 @@
     line-height: 31.2px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .design {
+      top: -23px;
+      left: -28px;
+      font-size: 60%;
+   }
+}
  .frame17 {
     position: absolute;
     width: 63.74%;
@@ -426,6 +509,13 @@
     font-family: var(--font-roboto-mono);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .passionate-about-weaving {
+      font-size: 25%;
+      top: 120px;
+      left: 10px;
+   }
+}
  .icon2 {
     position: absolute;
     top: 33px;
@@ -434,6 +524,10 @@
     height: 92px;
     object-fit: cover;
  }
+ @media (min-width: 768px) {
+   .icon2 {
+   }
+}
  .frame16 {
     position: absolute;
     width: 33.27%;
@@ -461,6 +555,11 @@
     display: inline-block;
     width: 558px;
  }
+ @media (max-width: 768px) {
+   .my-proficiency {
+      font-size: 140%;
+   }
+}
  .image-icon2 {
     position: absolute;
     top: calc(50% + 130px);
@@ -469,6 +568,12 @@
     height: 291px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .image-icon2 {
+      width:85%;
+      left: 30px;
+   }
+}
  .frame8 {
     position: absolute;
     width: 91.94%;
@@ -489,6 +594,11 @@
     height: 124px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .image-icon3 {
+      width: 60%;
+   }
+}
  .featured-project {
     position: absolute;
     width: 28.71%;
@@ -563,6 +673,11 @@
     line-height: 126px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .projects {
+   width: 80%;   
+}
+}
  .frame23 {
     position: absolute;
     width: 96.1%;
@@ -579,6 +694,12 @@
     line-height: 24px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .deployed-scalable-travel {
+      font-size: 60%;
+      top: -40px;
+   }
+}
  .collaborated-in-140 {
     position: absolute;
     width: 94.93%;
@@ -587,6 +708,12 @@
     line-height: 24px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .collaborated-in-140 {
+      font-size: 60%;
+      top: 120px;
+   }
+}
  .frame24 {
     position: absolute;
     width: 96.1%;
@@ -632,6 +759,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon3 {
+      height: 65%;
+      width: 100%;
+   }
+}
  .frame28 {
     position: absolute;
     width: 100.1%;
@@ -661,6 +794,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .flight-local-b2b {
+      top: -45px;
+   }
+}
  .web-development {
     position: absolute;
     width: 35.45%;
@@ -720,6 +858,19 @@
     line-height: 24.82px;
     display: inline-block;
  }
+.web-developmentx {
+   position: absolute;
+   width: 35.45%;
+   top: 62px;
+   left: 10.09%;
+   line-height: 24.82px;
+   display: inline-block;
+}
+@media (max-width: 768px) {
+  .web-developmentx {
+     top: 10px;
+  }
+}
  .ai-lab-granada {
     position: absolute;
     width: 41.79%;
@@ -731,6 +882,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .ai-lab-granada {
+      top: -40px;
+   }
+}
  .frame32 {
     position: absolute;
     width: 100.1%;
@@ -747,6 +903,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon4 {
+      height: 44%;
+      width: 100%;
+   }
+}
  .frame31 {
     position: absolute;
     width: 29.88%;
@@ -776,6 +938,10 @@
     line-height: 22.05px;
     display: inline-block;
  }
+ @media (min-width: 768px) {
+   .tryotel-cross-platform {
+   }
+}
  .show-project2 {
     position: absolute;
     width: 15.08%;
@@ -810,6 +976,12 @@
     height: 489px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon5 {
+      height: 87%;
+      width: 93%;
+   }
+}
  .frame34 {
     position: absolute;
     width: 63.22%;
@@ -828,6 +1000,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon6 {
+      height: 65%;
+      width: 100%;
+   }
+}
  .frame38 {
     position: absolute;
     width: 100.1%;
@@ -847,6 +1025,12 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .khora-urban {
+      top: -40px;
+      font-size: 90%;
+   }
+}
  .frame39 {
     position: absolute;
     width: 100.1%;
@@ -881,6 +1065,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon7 {
+      height: 50%;
+      width: 100%;
+   }
+}
  .frame42 {
     position: absolute;
     width: 100.1%;
@@ -901,6 +1091,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .tapy-download {
+      top: -80px;
+   }
+}
  .show-project4 {
     position: absolute;
     width: 36.23%;
@@ -944,6 +1139,12 @@
     height: 489px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon8 {
+      height: 87%;
+      width: 93%;
+   }
+}
  .frame46 {
     position: absolute;
     width: 99.96%;
@@ -963,6 +1164,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .walker-ip-pty {
+      top: -40px;
+   }
+}
  .show-project5 {
     position: absolute;
     width: 15.08%;
@@ -1014,6 +1220,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon9 {
+      height: 45%;
+      width: 100%;
+   }
+}
  .frame50 {
     position: absolute;
     width: 100.1%;
@@ -1034,6 +1246,24 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .tryotel-web-b2c {
+      top: -80px;
+   }
+}
+.web-developmenty {
+   position: absolute;
+   width: 35.45%;
+   top: 62px;
+   left: 10.09%;
+   line-height: 24.82px;
+   display: inline-block;
+}
+@media (max-width: 768px) {
+  .web-developmenty {
+     top: 10px;
+  }
+}
  .frame51 {
     position: absolute;
     width: 100.1%;
@@ -1060,6 +1290,13 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon10 {
+      height: 5%;
+      width: 30%;
+      left: 147px;
+   }
+}
  .rectangle40 {
     position: absolute;
     width: 100%;
@@ -1088,6 +1325,26 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .kananaskis-nordic-spa {
+      top: -80px;
+      font-size: 90%;
+   }
+}
+.web-developmentw {
+   position: absolute;
+   width: 35.45%;
+   top: 62px;
+   left: 10.09%;
+   line-height: 24.82px;
+   display: inline-block;
+}
+@media (max-width: 768px) {
+  .web-developmentw {
+     top: 10px;
+     font-size: 80%;
+  }
+}
  .frame55 {
     position: absolute;
     width: 100.1%;
@@ -1113,6 +1370,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon11 {
+      height: 70%;
+      width: 100%;
+   }
+}
  .frame58 {
     position: absolute;
     width: 100.1%;
@@ -1133,6 +1396,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .a-higher-thought {
+      top: -30px;
+   }
+}
  .frame59 {
     position: absolute;
     width: 100.1%;
@@ -1161,6 +1429,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .all-the-roads {
+      top: -30px;
+   }
+}
  .data-visualization {
     position: absolute;
     width: 34.58%;
@@ -1170,6 +1443,11 @@
     line-height: 24.82px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .data-visualization {
+      font-size: 80%;
+   }
+}
  .frame62 {
     position: absolute;
     width: 100.1%;
@@ -1195,6 +1473,12 @@
     height: 260px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon12 {
+      height: 8%;
+      width: 55%;
+   }
+}
  .frame26 {
     position: absolute;
     width: 103.57%;
@@ -1245,6 +1529,11 @@
     line-height: 18.47px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .div3 {
+      left: 100px;
+   }
+}
  .data-visualization1 {
     position: absolute;
     width: 89.72%;
@@ -1254,6 +1543,11 @@
     line-height: 26.39px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .data-visualization1 {
+      left: 60px;
+   }
+}
  .frame66 {
     position: absolute;
     width: 12.74%;
@@ -1271,6 +1565,11 @@
     line-height: 26.39px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .web-development8 {
+      left: 150px;
+   }
+}
  .div4 {
     position: absolute;
     width: 8.21%;
@@ -1280,6 +1579,11 @@
     line-height: 18.47px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .div4 {
+      left: 190px;
+   }
+}
  .frame67 {
     position: absolute;
     width: 13.05%;
@@ -1342,6 +1646,12 @@
     line-height: 21.84px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .present {
+      font-size: 70%;
+      top: -10px;
+   }
+}
  .software-engineer {
     position: absolute;
     width: 55.72%;
@@ -1350,6 +1660,12 @@
     line-height: 21.84px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .software-engineer {
+      font-size: 60%;
+      top: -10px;
+   }
+}
  .frame72 {
     position: absolute;
     width: 85.07%;
@@ -1402,6 +1718,11 @@
     line-height: 23.1px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .dart {
+      font-size: 0px;
+   }
+}
  .frame77 {
     position: absolute;
     width: 11.01%;
@@ -1418,6 +1739,11 @@
     line-height: 23.1px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .nextjs {
+      font-size: 0px;
+   }
+}
  .frame78 {
     position: absolute;
     width: 13.85%;
@@ -1434,6 +1760,11 @@
     line-height: 23.1px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .flutter {
+      font-size: 0px;
+   }
+}
  .frame79 {
     position: absolute;
     width: 15.28%;
@@ -1450,6 +1781,11 @@
     line-height: 23.1px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .react {
+      font-size: 0px;
+   }
+}
  .frame80 {
     position: absolute;
     width: 12.43%;
@@ -1474,6 +1810,11 @@
     line-height: 23.1px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .javascript {
+      font-size: 0px;
+   }
+}
  .frame82 {
     position: absolute;
     width: 19.54%;
@@ -1498,6 +1839,12 @@
     line-height: 24.75px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .saimonglobalcom {
+      font-size: 90%;
+      top: -10px;
+   }
+}
  .jhb-south-africa {
     position: absolute;
     width: 26.66%;
@@ -1506,6 +1853,12 @@
     line-height: 24.75px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .jhb-south-africa {
+      font-size: 70%;
+      top: -20px;
+   }
+}
  .frame83 {
     position: absolute;
     width: 100%;
@@ -1526,6 +1879,11 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .developing-front-end-and {
+      font-size: 50%;
+   }
+}
  .frame75 {
     position: absolute;
     width: 82%;
@@ -1542,6 +1900,10 @@
     height: 92px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .image-icon4 {
+   }
+}
  .frame74 {
     position: absolute;
     width: 95.89%;
@@ -1587,6 +1949,12 @@
     line-height: 21.84px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .web-developer {
+      font-size: 50%;
+      top: -10px;
+   }
+}
  .div6 {
     position: absolute;
     width: 13.53%;
@@ -1595,6 +1963,12 @@
     line-height: 21.84px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .div6 {
+      font-size: 60%;
+      top: -10px;
+   }
+}
  .frame91 {
     position: absolute;
     width: 11.01%;
@@ -1643,6 +2017,12 @@
     line-height: 24.75px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .remote-toronto-canada {
+      font-size: 60%;
+      top: 50px;
+   }
+}
  .influencethisca {
     position: absolute;
     width: 25.09%;
@@ -1686,6 +2066,12 @@
     line-height: 21.84px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .top-rated-web {
+      font-size: 50%;
+      top: -10px;
+   }
+}
  .rectangle66 {
     position: absolute;
     width: 100%;
@@ -1752,6 +2138,10 @@
     line-height: 24.75px;
     display: inline-block;
  }
+ @media (min-width: 768px) {
+   .upworkcom {
+   }
+}
  .remote {
     position: absolute;
     width: 9.41%;
@@ -1760,6 +2150,12 @@
     line-height: 24.75px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .remote {
+      font-size: 55%;
+      left: 5px;
+   }
+}
  .top-rated-developer-on {
     position: absolute;
     width: 85.02%;
@@ -1771,6 +2167,12 @@
     color: var(--color-white);
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .top-rated-developer-on {
+      font-size: 55%;
+      left: 50px;
+   }
+}
  .frame101 {
     position: absolute;
     width: 82%;
@@ -1787,6 +2189,10 @@
     height: 80px;
     object-fit: cover;
  }
+ @media (min-width: 768px) {
+   .image-icon6 {
+   }
+}
  .frame100 {
     position: absolute;
     width: 95.89%;
@@ -1840,6 +2246,11 @@
     display: inline-block;
     width: 370px;
  }
+ @media (max-width: 768px) {
+   .professional {
+      font-size: 60%;
+   }
+}
  .frame109 {
     position: absolute;
     width: 97.33%;
@@ -1885,6 +2296,12 @@
     line-height: 46.13px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .available-for-select {
+      top: -65px;
+      font-size: 60%;
+   }
+}
  .frame113 {
     position: absolute;
     width: 95.56%;
@@ -1909,6 +2326,12 @@
     line-height: 24.7px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .have-an-exciting {
+      font-size: 60%;
+      top: 30px;
+   }
+}
  .send-me-an {
     position: absolute;
     width: 86.98%;
@@ -1917,6 +2340,12 @@
     line-height: 24.7px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .send-me-an {
+      font-size: 60%;
+      top: 140px;
+   }
+}
  .frame114 {
     position: absolute;
     width: 95.56%;
@@ -1965,6 +2394,11 @@
     line-height: 22.4px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .since-2018-john {
+      font-size: 40%;
+   }
+}
  .founder-at-ycedcoffee {
     position: absolute;
     width: 74.53%;
@@ -1974,6 +2408,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .founder-at-ycedcoffee {
+      font-size: 0px;
+   }
+}
  .beauty-abdul {
     position: absolute;
     width: 84.65%;
@@ -1984,6 +2423,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .beauty-abdul {
+      font-size: 0px;
+   }
+}
  .frame117 {
     position: absolute;
     width: 80.42%;
@@ -2001,6 +2445,11 @@
     height: 85px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon13 {
+      left: 8px;
+   }
+}
  .frame116 {
     position: absolute;
     width: 45.01%;
@@ -2026,6 +2475,11 @@
     line-height: 22.4px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .john-is-amazing {
+      font-size: 50%;
+   }
+}
  .agile-coach {
     position: absolute;
     width: 73.63%;
@@ -2035,6 +2489,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .agile-coach {
+      font-size: 0px;
+   }
+}
  .james-hajek {
     position: absolute;
     width: 42.21%;
@@ -2045,6 +2504,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .james-hajek {
+      font-size: 0px;
+   }
+}
  .frame119 {
     position: absolute;
     width: 84.03%;
@@ -2062,6 +2526,11 @@
     height: 85px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon14 {
+      left: 12px;
+   }
+}
  .frame118 {
     position: absolute;
     width: 54.99%;
@@ -2089,6 +2558,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .promise-brown {
+      font-size: 0px;
+   }
+}
  .the-cliff {
     position: absolute;
     width: 19.99%;
@@ -2098,6 +2572,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .the-cliff {
+      font-size: 0px;;
+   }
+}
  .ceo-founder {
     position: absolute;
     width: 44.11%;
@@ -2107,6 +2586,11 @@
     line-height: 19.5px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .ceo-founder {
+      font-size: 0px;
+   }
+}
  .frame121 {
     position: absolute;
     width: 84.03%;
@@ -2124,6 +2608,11 @@
     line-height: 22.4px;
     display: inline-block;
  }
+ @media (max-width: 768px) {
+   .john-is-one {
+      font-size: 50%;
+   }
+}
  .icon15 {
     position: absolute;
     top: 32px;
@@ -2132,6 +2621,11 @@
     height: 85px;
     object-fit: cover;
  }
+ @media (max-width: 768px) {
+   .icon15 {
+      left: 12px;
+   }
+}
  .frame120 {
     position: absolute;
     width: 54.99%;
