@@ -57,7 +57,7 @@ If you have suggestions or find any issues, feel free to open an issue or create
 
 ## License 📄
 
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Show Your Support ⭐
 
