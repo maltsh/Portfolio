@@ -63,4 +63,4 @@ This project is licensed under MIT License - see the [LICENSE](LICENSE) file for
 
 If you find this project useful, consider giving it a star on GitHub. It's a small gesture that means a lot!
 
-⭐ [Star this Repository](https://github.com/your-username/your-repository)
+⭐ [Star this Repository](https://github.com/maltsh/Portfolio)https://github.com/maltsh/Portfolio)
