@@ -42,13 +42,14 @@ To run this sample portfolio website locally:
 ## Screenshots 📸
 
 ### Laptop View
-![Laptop View](./screenshots/laptop.png)
+![Laptop View](assets/laptop.png)
 
 ### Tablet View
-![Tablet View](./screenshots/tablet.png)
+![Tablet View](assets/tablet.png)
+![Tablet View](assets/tablet1.png)
 
 ### Mobile View
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](assets/mobile.png)
 
 ## Contributing 🤝
 
