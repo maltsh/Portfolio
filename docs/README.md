@@ -1,44 +1,66 @@
-# Portfolio
- 
-#Portflio is a fully responsive personal portfolio website, responsive for all devices, built using HTML and CSS.
+# [Sample Portfolio] - Developer Portfolio 🚀
 
-## Demo
+Welcome to the [Sample Portfolio] website! This is a sample portfolio showcasing the skills, projects, and experiences of a web developer. Explore the various sections to learn more about the developer's expertise.
 
-![Portfolio Desktop Demo](assets/desktop.png "Desktop Demo")
-![Portfolio Mobile Demo](assets/mobile.png "Mobile Demo")
+## Table of Contents 📋
 
-<br/>
+1. [Introduction](#introduction)
+2. [Website Structure](#website-structure)
+3. [Technologies Used](#technologies-used)
+4. [How to Run](#how-to-run)
+5. [Screenshots](#screenshots)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-<center>
+## Introduction 🌐
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+This sample portfolio website provides a glimpse into the developer's capabilities and achievements in web development.
 
-</center>
+## Website Structure 🏗️
 
-## Built With
+The website is organized into different sections:
 
-# Mock Portfolio
-🚀 Dive into my world of code and creativity! Explore projects, check my skills, and peek into my tech journey. Responsively designed for all screens. Built with ❤️, HTML, and CSS.
-👉 [Check it out!](https://github.com/maltsh/Portfolio)
+- **About Me**
+- **Skills**
+- **Experience**
+- **Projects**
+- **Contact Information**
 
-This project was built using these technologies.
+Each section is designed to give visitors a comprehensive understanding of the developer's skills and accomplishments.
 
-- CSS
-- HTML
+## Technologies Used 💻
 
-## Features
+The website is built using HTML and CSS. It follows modern design principles, ensuring a responsive and visually appealing experience across various devices.
 
-**📖 Multi-Page Layout**
+## How to Run 🏃‍♂️
 
-**🎨 Styled with Css with easy to customize colors**
+To run this sample portfolio website locally:
 
-**📱 Multi-screen Responsive**
+1. Clone the repository: `git clone [repository-url]`
+2. Open the `index.html` file in your preferred web browser.
 
-## License
+## Screenshots 📸
 
-MIT
+### Laptop View
+![Laptop View](assets/laptop.png)
 
-### Show your support
+### Tablet View
+![Tablet View](assets/tablet.png)
+![Tablet View](assets/tablet1.png)
 
-Give a ⭐ if you like this website!
+### Mobile View
+![Mobile View](assets/mobile.png)
+
+## Contributing 🤝
+
+If you have suggestions or find any issues, feel free to open an issue or create a pull request. Contributions are welcome!
+
+## License 📄
+
+This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Show Your Support ⭐
+
+If you find this project useful, consider giving it a star on GitHub. It's a small gesture that means a lot!
+
+⭐ [Star this Repository](https://github.com/maltsh/Portfolio)
